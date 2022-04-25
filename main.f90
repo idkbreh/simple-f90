@@ -3,3 +3,6 @@ program main
 
  integer :: int_number = 90 !<type variable>::<variable> = <value of variable>
  ! integer = int , real = float , logical = boolean , character = word str
+ !ill comeback soon
+
+end program main
